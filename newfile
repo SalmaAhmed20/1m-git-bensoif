@@ -1,2 +1,4 @@
 git restore --staged
 git merge --squash 
+git reset --mixed
+git reset --hard 
