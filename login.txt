@@ -1,2 +1,7 @@
 login dummy data
 extra dummy data 
+git add [file/.]
+git commit -m [message]
+git restore [file/.]
+git status 
+git log 
