@@ -1,7 +1,12 @@
 login dummy data
 extra dummy data 
+====
+git init 
+git config --global user.name /user.email
+====
 git add [file/.]
 git commit -m [message]
-git restore [file/.]
+git commit -am [message] -> if file is already tracked and have history git 
+git restore [file/.] -> git restore --staged [file/.]
 git status 
 git log 
