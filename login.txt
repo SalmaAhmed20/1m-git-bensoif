@@ -18,3 +18,4 @@ Add new line (from feat/conflict-simulation)
 git add login remote
 add extra line from remote repo 
 add extra line from remote repo (add extra line )
+(feat main)
