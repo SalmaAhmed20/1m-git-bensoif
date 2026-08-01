@@ -1,1 +1,2 @@
 git restore --staged
+git merge --squash 
